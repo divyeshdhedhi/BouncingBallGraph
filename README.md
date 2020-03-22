@@ -1,2 +1,2 @@
 # BouncingBallGraph
-calculating number of bounces and plotting graph of each bounce
+Calculating number of bounces and plotting graph of each bounce
